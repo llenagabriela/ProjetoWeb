@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProjetoWeb.Models;
 using System.Diagnostics;
+using ProjetoWeb.Models.ViewModels;
 
 namespace ProjetoWeb.Controllers
 {
